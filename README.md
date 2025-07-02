@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5239dc62-bab4-4b30-ad69-3c7cce3ab926/adam_bidd_a_pixel_art_style_of_a__20_.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhay Pratap Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 

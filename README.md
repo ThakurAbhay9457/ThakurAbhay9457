@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CePQPR9CTaRO3iHfeJWaHUaHC90O_TmK/view?usp=sharing](https://drive.google.com/file/d/1CePQPR9CTaRO3iHfeJWaHUaHC90O_TmK/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am an introvert**
+- ⚡ Fun fact is that **I think I am an introvert**
 
 ###
 

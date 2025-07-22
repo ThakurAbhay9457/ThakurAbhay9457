@@ -18,7 +18,7 @@
 
 
 
-- 🔭 I’m currently working on a **mutual hostel swapping website**
+- 🔭 I’m currently working on  **Typescript and SQL**
 
 - 🌱 I’m currently learning **Typescript and SQL databases**
 
